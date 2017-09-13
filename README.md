@@ -1,1 +1,3 @@
 # hello-world
+
+Hello all- I am a master's student in economics, and can now consider myself a beginner in data analysis!  I'd like to get a bit better....
